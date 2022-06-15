@@ -1,4 +1,4 @@
-# deeplab_v3+_ros
+# deeplab_ros
 
 This is the ROS implementation of the semantic segmentation algorithm Deeplab v3+.
 
