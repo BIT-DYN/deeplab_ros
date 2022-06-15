@@ -2,7 +2,7 @@
 
 This is the ROS implementation of the semantic segmentation algorithm Deeplab v3+.
 
-We put two packages here for the convenience of using CV_ The correct version of the bridge.
+We put two packages here for the convenience of using opencv The correct version of the bridge.
 
 ## Install
 
@@ -59,4 +59,5 @@ source devel/setup.bash
 roslaunch img_seg run.launch 
 ```
 ### Output
-Open rviz to view the topic as **/image_ view/image_seg** color segmentation results.
+Open rviz to view the topic as '/image_ view/image_seg' color segmentation results.
+The colors of various categories can be modified in the file [Img_seg_ros/datasets/cityscapes.py](The colors of various categories can be modified in the file.).
