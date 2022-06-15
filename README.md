@@ -61,6 +61,9 @@ roslaunch img_seg run.launch
 ### Output
 Open rviz to view the topic as '/image_ view/image_seg' color segmentation results.
 The colors of various categories can be modified in the file [Img_seg_ros/datasets/cityscapes.py](The colors of various categories can be modified in the file.).
+<div align=center>
+<img src="https://github.com/BIT-DYN/deeplab_ros/blob/master/out.jpg" width="500">
+</div>
 
 ## Other introductions
 [CSDN](https://blog.csdn.net/weixin_43807148/article/details/123489519?spm=1001.2014.3001.5501)
