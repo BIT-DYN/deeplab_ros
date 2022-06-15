@@ -1,6 +1,6 @@
 # deeplab_ros
 
-This is the ROS implementation of the semantic segmentation algorithm Deeplab v3+.
+This is the ROS implementation of the semantic segmentation algorithm [Deeplab v3+](https://github.com/jfzhang95/pytorch-deeplab-xception).
 
 We put two packages here for the convenience of using opencv The correct version of the bridge.
 
