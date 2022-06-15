@@ -18,7 +18,7 @@ You can install them when an error is reported.
 ```bash
 mkdir DeepLabV3Plus_ws && cd DeepLabV3Plus_ws
 mkdir src && cd src
-git clone git@github.com:BIT-DYN/deeplab_v3-_ros.git
+git clone git@github.com:BIT-DYN/deeplab_ros.git
 cd ..
 ```
 ### Compile
