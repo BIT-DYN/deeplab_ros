@@ -1,0 +1,8 @@
+<launch>
+    
+    <!-- <include file="$(find camera)/launch/read_camera.launch"/> -->
+
+    <node name="img_seg" pkg="img_seg" type="predict.py" output="screen" >
+    </node>
+</launch>
+
