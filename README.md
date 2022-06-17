@@ -44,7 +44,7 @@ sys.path.append('/home/dyn/DeepLabV3Plus_ws/devel/lib/python3.6/site-packages')
 
 2. Line 51
 ``` python
-ckpt = "/home/dyn/DeepLabV3Plus_ws/src/deeplab_v3-_ros/Img_seg_ros/best_deeplabv3plus_mobilenet_cityscapes_os16.pth"
+ckpt = "/home/dyn/DeepLabV3Plus_ws/src/deeplab_ros/Img_seg_ros/best_deeplabv3plus_mobilenet_cityscapes_os16.pth"
 ```
 
 3. Line 112
